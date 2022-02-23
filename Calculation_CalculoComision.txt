@@ -1,0 +1,5 @@
+CASE
+WHEN [Measures].[Ingreso Total] <= 5000
+THEN [Measures].[Ingreso Total] * 0.2
+ELSE [Measures].[Ingreso Total] * 0.5
+END
