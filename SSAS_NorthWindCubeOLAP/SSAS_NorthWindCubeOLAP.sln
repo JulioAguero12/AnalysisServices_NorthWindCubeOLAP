@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SSAS_NorthWindCubeOLAP", "SSAS_NorthWindCubeOLAP.dwproj", "{DCF8CB47-907D-47C0-B623-8F1354216962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF8CB47-907D-47C0-B623-8F1354216962}.Development|Default.ActiveCfg = Development
+		{DCF8CB47-907D-47C0-B623-8F1354216962}.Development|Default.Build.0 = Development
+		{DCF8CB47-907D-47C0-B623-8F1354216962}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14D8E9AD-2748-4BBD-9F4D-32FF16198D81}
+	EndGlobalSection
+EndGlobal
