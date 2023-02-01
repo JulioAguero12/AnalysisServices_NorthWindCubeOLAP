@@ -1,0 +1,18 @@
+-Un ryzen 7 5800x3D
+El procesador (CPU, Central Processing Unit) es el componente más importante dentro del PC. 
+Es el cerebro de todo el funcionamiento del sistema, el encargado de dirigir todas las tareas que lleva a 
+cabo el equipo y de ejecutar el código de los diferentes programas.
+https://www.pccomponentes.com/procesadores-amd-ryzen-vs-intel-core
+
+-16gb de ram a 3200 o 3600mhz(preferible que sean 32 para que baste y sobre)
+https://history-computer.com/3200mhz-vs-3600mhz-ram-is-the-difference-really-that-important/
+
+-Una motherboard x570 de la marca que prefieras
+La tarjeta madre, es la placa principal en la estructura interna del computador donde se encuentran los circuitos electrónicos, 
+el procesador, las memorias y las conexiones principales.
+
+Una fuente de minimo 800watts 80plus gold
+Una rtx 3060 o 2060 
+
+
+30gr
